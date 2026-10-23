@@ -25,7 +25,6 @@ module tb;
     $dumpfile("dump.vcd");
     $dumpvars(0, tb);
 
-  1
     check(3'b000, 4'd5,    4'd3,    4'b1000, 0,    0);  
     check(3'b000, 4'd7,    4'd9,    4'b0000, 1,    1);  
     check(3'b001, 4'd6,    4'd2,    4'b0100, 1,    0);  
