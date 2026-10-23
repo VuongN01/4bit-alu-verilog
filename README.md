@@ -47,5 +47,5 @@ two's complement). All tests pass.
 
 ## Running it
 
-Paste both files into [EDA Playground](https://www.edaplayground.com), select
+Paste both files into [EDA Playground](https://edaplayground.com/x/i74v), select
 Icarus Verilog as the simulator, and click Run.
